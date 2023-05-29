@@ -1,3 +1,14 @@
+# gona
+
+
+# Prerequsite softwares
+
+1. python idle
+2. mysql
+
+
+# How to use
+
 1) first run the setup.py file
 2) then try running nursery final.py file
 

@@ -1,0 +1,4 @@
+1) first run the setup.py file
+2) then try running nursery final.py file
+
+if you get any error try contacting -> sritishkumargouda@gamil.com
